@@ -1,0 +1,212 @@
+﻿sport,card_date,pick,result,stake,net
+MLB,2026-08-07,Detroit Tigers @ San Francisco Giants | Detroit Tigers,LOSS,1.0,-1.0
+MLB,2026-08-08,Cincinnati Reds @ Washington Nationals | Washington Nationals,WIN,1.0,0.91
+MLB,2026-08-09,Los Angeles Dodgers @ Arizona Diamondbacks | Arizona Diamondbacks,WIN,1.0,0.91
+MLB,2026-08-11,Cleveland Guardians @ Detroit Tigers | Detroit Tigers,WIN,1.0,0.91
+MLB,2026-08-12,Cleveland Guardians @ Detroit Tigers | Detroit Tigers,LOSS,1.0,-1.0
+MLB,2026-08-13,Philadelphia Phillies @ Minnesota Twins | Minnesota Twins,LOSS,1.0,-1.0
+MLB,2026-08-14,Kansas City Royals @ Los Angeles Angels | Los Angeles Angels,LOSS,1.0,-1.0
+MLB,2026-08-15,Chicago White Sox @ Detroit Tigers | Detroit Tigers,LOSS,1.0,-1.0
+MLB,2026-08-15,Milwaukee Brewers @ Los Angeles Dodgers | Milwaukee Brewers,WIN,1.0,0.85
+MLB,2026-08-16,Baltimore Orioles @ Tampa Bay Rays | Baltimore Orioles,WIN,1.0,1.35
+MLB,2026-08-17,Atlanta Braves @ Minnesota Twins | Atlanta Braves,LOSS,1.0,-1.0
+MLB,2026-08-18,St. Louis Cardinals @ Cincinnati Reds | St. Louis Cardinals,WIN,1.0,0.9
+WNBA,2026-08-18,Indiana Fever @ Toronto Tempo | Indiana Fever ML,WIN,0.75,0.2
+WNBA,2026-08-18,Indiana Fever @ Toronto Tempo | Indiana Fever -10.5,LOSS,0.75,-0.75
+WNBA,2026-08-18,Los Angeles Sparks @ Connecticut Sun | OVER 169.5,LOSS,0.75,-0.75
+MLB,2026-08-19,Washington Nationals @ Texas Rangers | Washington Nationals,WIN,1.0,1.25
+WNBA,2026-08-19,Toronto Tempo @ Washington Mystics | Washington Mystics -11.5,LOSS,0.75,-0.75
+WNBA,2026-08-19,Toronto Tempo @ Washington Mystics | OVER 168.5,WIN,0.75,0.74
+WNBA,2026-08-19,Minnesota Lynx @ Golden State Valkyries | OVER 164.5,LOSS,0.5,-0.5
+WNBA,2026-08-20,Connecticut Sun @ Las Vegas Aces | OVER 167.5,WIN,0.75,0.72
+MLB,2026-08-21,Minnesota Twins @ San Diego Padres | San Diego Padres,WIN,1.0,0.75
+WNBA,2026-08-21,Golden State Valkyries @ Chicago Sky | OVER 162.5,LOSS,0.75,-0.75
+WNBA,2026-08-21,Portland Fire @ Toronto Tempo | Portland Fire -2.5,LOSS,0.5,-0.5
+MLB,2026-08-22,Cleveland Guardians @ Colorado Rockies | Cleveland Guardians,WIN,1.0,0.74
+WNBA,2026-08-22,Connecticut Sun @ Los Angeles Sparks | OVER 168.5,LOSS,0.75,-0.75
+MLB,2026-08-23,Tampa Bay Rays @ Baltimore Orioles | Baltimore Orioles,LOSS,1.0,-1.0
+MLB,2026-08-23,Chicago Cubs @ Seattle Mariners | Chicago Cubs,WIN,1.0,0.85
+WNBA,2026-08-23,Washington Mystics @ Portland Fire | OVER 164.5,WIN,1.0,0.96
+WNBA,2026-08-23,Las Vegas Aces @ Toronto Tempo | OVER 180.5,LOSS,0.75,-0.75
+WNBA,2026-08-23,Washington Mystics @ Portland Fire | OVER 165.5,WIN,0.75,0.72
+WNBA,2026-08-23,Las Vegas Aces @ Toronto Tempo | Las Vegas Aces -10.5,LOSS,0.5,-0.5
+WNBA,2026-08-23,Washington Mystics @ Portland Fire | OVER 166.5,WIN,0.75,0.76
+MLB,2026-08-24,Minnesota Twins @ Athletics | Athletics,LOSS,1.0,-1.0
+MLB,2026-08-24,Philadelphia Phillies @ Seattle Mariners | Philadelphia Phillies,LOSS,1.0,-1.0
+MLB,2026-08-25,Houston Astros @ New York Yankees | New York Yankees,LOSS,1.0,-1.0
+WNBA,2026-08-25,Chicago Sky @ Connecticut Sun | Chicago Sky -5.5,LOSS,0.5,-0.5
+WNBA,2026-08-25,Washington Mystics @ Phoenix Mercury | Washington Mystics -1.5,WIN,0.5,0.48
+MLB,2026-08-26,Colorado Rockies @ Washington Nationals | Washington Nationals,LOSS,1.0,-1.0
+WNBA,2026-08-26,Golden State Valkyries @ Connecticut Sun | OVER 151.5,WIN,0.75,0.75
+WNBA,2026-08-26,Toronto Tempo @ Seattle Storm | OVER 174.5,LOSS,0.75,-0.75
+MLB,2026-08-27,Houston Astros @ New York Yankees | New York Yankees,LOSS,1.0,-1.0
+MLB,2026-08-30,Texas Rangers @ Milwaukee Brewers | Milwaukee Brewers,LOSS,1.0,-1.0
+MLB,2026-08-31,Baltimore Orioles @ Colorado Rockies | Baltimore Orioles,LOSS,1.0,-1.0
+MLB,2026-09-01,Milwaukee Brewers @ Chicago Cubs | Chicago Cubs,LOSS,1.0,-1.0
+MLB,2026-09-02,Milwaukee Brewers @ Chicago Cubs | Chicago Cubs,WIN,1.0,1.41
+MLB,2026-09-03,Tampa Bay Rays @ Texas Rangers | Tampa Bay Rays,LOSS,1.0,-1.0
+MLB,2026-09-04,Chicago Cubs @ Miami Marlins | Miami Marlins,LOSS,1.0,-1.0
+MLB,2026-09-05,St. Louis Cardinals @ Colorado Rockies | Colorado Rockies,WIN,1.0,1.14
+MLB,2026-09-06,Atlanta Braves @ Philadelphia Phillies | Atlanta Braves,WIN,1.0,1.0
+MLB,2026-09-07,Minnesota Twins @ Detroit Tigers | Detroit Tigers,WIN,1.0,0.92
+MLB,2026-09-08,Minnesota Twins @ Detroit Tigers | Detroit Tigers,WIN,1.0,0.84
+MLB,2026-09-09,Minnesota Twins @ Detroit Tigers | Detroit Tigers,WIN,1.0,0.89
+MLB,2026-09-10,Houston Astros @ Tampa Bay Rays | Tampa Bay Rays,WIN,1.0,0.65
+MLB,2026-09-11,San Diego Padres @ San Francisco Giants | San Francisco Giants,LOSS,1.0,-1.0
+MLB,2026-09-12,Texas Rangers @ Arizona Diamondbacks | Arizona Diamondbacks,LOSS,1.0,-1.0
+MLB,2026-09-13,Seattle Mariners @ Los Angeles Angels | Los Angeles Angels,WIN,1.0,1.04
+NFL,2026-09-13,CHI @ CAR | TOTAL under 54.5,LOSS,1.0,-1.0
+NFL,2026-09-13,CLE @ JAX | SPREAD away 16.5,LOSS,1.0,-1.0
+NFL,2026-09-13,CLE @ JAX | TOTAL over 41.5,WIN,0.75,0.68
+NFL,2026-09-13,NO @ DET | SPREAD away 12.0,WIN,0.75,0.68
+NFL,2026-09-13,NO @ DET | TOTAL over 41.5,WIN,0.75,0.68
+NFL,2026-09-13,ATL @ PIT | ML home ,WIN,0.5,0.32
+NFL,2026-09-13,ATL @ PIT | SPREAD home -3.0,WIN,0.5,0.45
+NFL,2026-09-13,ARI @ LAC | SPREAD away 9.5,WIN,0.5,0.45
+NFL,2026-09-13,MIA @ LV | ML away ,LOSS,0.75,-0.75
+NFL,2026-09-13,MIA @ LV | SPREAD away 3.0,LOSS,0.75,-0.75
+NFL,2026-09-13,MIA @ LV | TOTAL over 40.5,LOSS,0.75,-0.75
+NFL,2026-09-13,DEN @ KC | SPREAD away 2.5,LOSS,0.75,-0.75
+MLB,2026-09-14,Chicago White Sox @ Cleveland Guardians | Chicago White Sox,LOSS,1.0,-1.0
+NFL,2026-09-14,DEN @ KC | ML away ,LOSS,0.75,-0.75
+MLB,2026-09-15,Boston Red Sox @ Texas Rangers | Texas Rangers,WIN,1.0,0.84
+MLB,2026-09-16,Philadelphia Phillies @ New York Mets | New York Mets,LOSS,1.0,-1.0
+MLB,2026-09-17,Philadelphia Phillies @ New York Mets | New York Mets,LOSS,1.0,-1.0
+NFL,2026-09-17,DET @ BUF | TOTAL under 55.0,LOSS,0.5,-0.5
+MLB,2026-09-18,Kansas City Royals @ Pittsburgh Pirates | Pittsburgh Pirates,WIN,1.0,0.59
+MLB,2026-09-19,Chicago Cubs @ Cincinnati Reds | Chicago Cubs,WIN,1.0,0.78
+SOCCER,2026-09-19,Gimnasia (Mendoza) v Deportivo Riestra | O/U OVER 1.75 @ 1.89,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Willem II v Fortuna Sittard | O/U UNDER 3.0 @ 1.9,WIN,0.25,0.22
+SOCCER,2026-09-19,Kocaelispor v Gaziantep FK | O/U OVER 2.25 @ 2.08,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Sparta Rotterdam v Heerenveen | O/U UNDER 3.5 @ 1.87,LOSS,0.25,-0.25
+SOCCER,2026-09-19,River Plate v Huracán | O/U OVER 2.25 @ 2.08,WIN,0.25,0.27
+SOCCER,2026-09-19,Lommel SK v KV Mechelen | O/U UNDER 2.75 @ 2.03,WIN,0.25,0.26
+SOCCER,2026-09-19,Venezia v Lazio | O/U UNDER 2.75 @ 1.99,WIN,0.5,0.5
+SOCCER,2026-09-19,Borussia Mönchengladbach v Mainz | O/U UNDER 3.0 @ 1.98,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Gil Vicente v Maritimo | O/U OVER 2.25 @ 2.09,LOSS,0.2,-0.2
+SOCCER,2026-09-19,New England Revolution v Orlando City SC | O/U UNDER 3.5 @ 1.92,LOSS,1.0,-1.0
+SOCCER,2026-09-19,Queens Park Rangers v Preston North End | O/U UNDER 2.75 @ 1.88,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Eintracht Frankfurt v SC Freiburg | O/U UNDER 3.0 @ 2.09,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Lyon v Stade Rennais | O/U UNDER 3.0 @ 2.02,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Paris FC v Strasbourg | O/U UNDER 3.0 @ 1.92,PUSH,0.25,0.0
+SOCCER,2026-09-19,Anderlecht v Zulte-Waregem | O/U UNDER 2.75 @ 2.08,LOSS,0.25,-0.25
+SOCCER,2026-09-19,Portland Timbers v Atlanta United FC | AH Portland Timbers -0.5 @ 1.99,LOSS,0.25,-0.25
+SOCCER,2026-09-19,C.D. Nacional v FC Famalicao | AH C.D. Nacional +0.5 @ 1.84,LOSS,0.5,-0.5
+SOCCER,2026-09-19,Willem II v Fortuna Sittard | AH Fortuna Sittard -0 @ 1.92,WIN,0.25,0.23
+SOCCER,2026-09-19,América v Guadalajara | AH América +0 @ 1.88,PUSH,0.5,0.0
+SOCCER,2026-09-19,River Plate v Huracán | AH Huracán +1 @ 1.93,WIN,0.5,0.46
+SOCCER,2026-09-19,Minnesota United FC v LA Galaxy | AH LA Galaxy +1 @ 1.97,WIN,0.5,0.48
+SOCCER,2026-09-19,Venezia v Lazio | AH Venezia +0.5 @ 1.87,LOSS,0.5,-0.5
+SOCCER,2026-09-19,Gil Vicente v Maritimo | AH Gil Vicente -0.5 @ 2.05,LOSS,0.4,-0.4
+SOCCER,2026-09-19,Birmingham City v Middlesbrough | AH Birmingham City +0 @ 2.12,PUSH,0.8,0.0
+SOCCER,2026-09-19,Alverca v Rio Ave | AH Rio Ave +0.5 @ 2.02,LOSS,0.5,-0.5
+SOCCER,2026-09-19,Remo v Santos | AH Remo +0 @ 2.09,LOSS,1.0,-1.0
+SOCCER,2026-09-19,Eintracht Frankfurt v SC Freiburg | AH SC Freiburg -0 @ 2.02,PUSH,0.5,0.0
+SOCCER,2026-09-19,Instituto (Córdoba) v Talleres (Córdoba) | AH Talleres (Córdoba) +0.5 @ 1.91,LOSS,0.5,-0.5
+SOCCER,2026-09-19,Real Salt Lake v Vancouver Whitecaps | AH Real Salt Lake +0.5 @ 2.06,LOSS,0.5,-0.5
+MLB,2026-09-20,Detroit Tigers @ Chicago White Sox | Chicago White Sox,WIN,1.0,0.92
+NFL,2026-09-20,NO @ BAL | SPREAD home -9.0,LOSS,0.5,-0.5
+NFL,2026-09-20,MIN @ CHI | ML home ,LOSS,0.75,-0.75
+NFL,2026-09-20,MIN @ CHI | SPREAD home -4.5,LOSS,0.75,-0.75
+NFL,2026-09-20,MIN @ CHI | TOTAL under 47.0,WIN,0.5,0.45
+NFL,2026-09-20,CIN @ HOU | ML home ,LOSS,0.5,-0.5
+NFL,2026-09-20,PIT @ NE | SPREAD away 5.5,LOSS,0.5,-0.5
+NFL,2026-09-20,CLE @ TB | SPREAD away 9.0,WIN,0.5,0.45
+NFL,2026-09-20,WAS @ DAL | ML away ,LOSS,1.0,-1.0
+NFL,2026-09-20,MIA @ SF | SPREAD home -13.5,WIN,0.5,0.45
+NFL,2026-09-20,IND @ KC | ML home ,WIN,0.5,0.21
+MLB,2026-09-21,Minnesota Twins @ San Francisco Giants | San Francisco Giants,WIN,1.0,1.09
+MLB,2026-09-22,New York Mets @ Texas Rangers | Texas Rangers,LOSS,1.0,-1.0
+MLB,2026-09-23,Cleveland Guardians @ Boston Red Sox | Boston Red Sox,WIN,1.0,0.79
+MLB,2026-09-24,Chicago White Sox @ Kansas City Royals | Chicago White Sox,WIN,1.0,1.18
+NFL,2026-09-24,SEA @ WAS | SPREAD away -7.5,LOSS,0.75,-0.75
+MLB,2026-09-25,Los Angeles Angels @ Seattle Mariners | Los Angeles Angels,WIN,1.0,1.23
+MLB,2026-09-26,St. Louis Cardinals @ Milwaukee Brewers | Milwaukee Brewers,LOSS,1.0,-1.0
+NFL,2026-09-27,LAC @ BUF | SPREAD home -7.5,WIN,0.75,0.68
+NFL,2026-09-27,NYJ @ DET | SPREAD away 7.0,PUSH,0.75,0.0
+NFL,2026-09-27,NE @ JAX | ML home ,WIN,0.5,0.36
+NFL,2026-09-27,ARI @ SF | SPREAD home -7.5,LOSS,0.75,-0.75
+NFL,2026-09-27,MIN @ TB | ML away ,WIN,0.5,0.48
+NFL,2026-09-27,BAL @ DAL | TOTAL under 53.0,LOSS,0.5,-0.5
+NFL,2026-09-27,PHI @ CHI | SPREAD away -3.5,LOSS,0.5,-0.5
+CFB,2026-10-03,Virginia @ Florida State | SPREAD away -2.5 @ -113,LOSS,0.5,-0.5
+CFB,2026-10-03,California @ UNLV | TOTAL under 53.5 @ -114,LOSS,0.5,-0.5
+CFB,2026-10-03,Ohio State @ Iowa | SPREAD home 14.5 @ -110,LOSS,0.5,-0.5
+CFB,2026-10-03,Auburn @ Tennessee | TOTAL under 54.5 @ -112,WIN,0.75,0.67
+CFB,2026-10-03,Ohio @ Kent State | ML away  @ -165,WIN,0.75,0.45
+CFB,2026-10-03,Ohio @ Kent State | SPREAD away -3.0 @ -118,PUSH,0.75,0.0
+CFB,2026-10-03,Bowling Green @ Miami (OH) | SPREAD home -13.5 @ -110,LOSS,1.0,-1.0
+CFB,2026-10-03,Louisville @ NC State | TOTAL over 58.5 @ -110,WIN,0.75,0.68
+CFB,2026-10-03,Marshall @ James Madison | SPREAD home -19.5 @ -109,WIN,0.75,0.69
+CFB,2026-10-03,UTEP @ New Mexico | SPREAD home -21.5 @ -113,WIN,1.0,0.88
+CFB,2026-10-03,Purdue @ Illinois | SPREAD home -10.0 @ -110,LOSS,0.75,-0.75
+CFB,2026-10-03,Purdue @ Illinois | TOTAL over 62.5 @ -110,LOSS,0.5,-0.5
+CFB,2026-10-03,Oregon State @ Colorado State | TOTAL under 62.5 @ -114,LOSS,0.75,-0.75
+CFB,2026-10-04,UL Monroe @ South Alabama | TOTAL over 57.5 @ -107,WIN,0.75,0.7
+CFB,2026-10-04,Arkansas @ Texas A&M | TOTAL over 51.0 @ -109,LOSS,0.75,-0.75
+CFB,2026-10-04,Temple @ South Florida | SPREAD home -6.5 @ -112,LOSS,0.75,-0.75
+CFB,2026-10-04,Temple @ South Florida | TOTAL over 47.5 @ -114,LOSS,1.0,-1.0
+CFB,2026-10-04,Army @ Louisiana Tech | ML away  @ -124,LOSS,0.75,-0.75
+CFB,2026-10-04,Army @ Louisiana Tech | SPREAD away -1.5 @ -114,LOSS,0.75,-0.75
+CFB,2026-10-04,Army @ Louisiana Tech | TOTAL over 46.5 @ -115,WIN,0.5,0.43
+CFB,2026-10-04,Miami @ Clemson | TOTAL under 48.0 @ -113,LOSS,0.5,-0.5
+CFB,2026-10-04,Texas Tech @ Colorado | SPREAD away -12.5 @ -110,WIN,0.75,0.68
+CFB,2026-10-04,Indiana @ Rutgers | TOTAL over 56.5 @ -109,WIN,0.75,0.69
+CFB,2026-10-04,Arkansas State @ Louisiana | TOTAL over 47.5 @ -110,LOSS,0.75,-0.75
+CFB,2026-10-04,Fresno State @ Washington State | ML away  @ 106,WIN,0.75,0.8
+CFB,2026-10-04,Fresno State @ Washington State | SPREAD away 2.0 @ -113,WIN,0.75,0.66
+CFB,2026-10-04,Fresno State @ Washington State | TOTAL under 45.5 @ -113,WIN,0.5,0.44
+CFB,2026-10-04,Baylor @ Arizona State | SPREAD away 4.0 @ -110,WIN,0.75,0.68
+CFB,2026-10-04,Baylor @ Arizona State | TOTAL under 48.5 @ -110,LOSS,0.5,-0.5
+CFB,2026-10-04,Texas State @ San Diego State | SPREAD home 7.5 @ -108,WIN,0.5,0.46
+CFB,2026-10-04,Texas State @ San Diego State | TOTAL over 57.5 @ -110,WIN,0.5,0.45
+CFB,2026-10-04,Arkansas State @ Louisiana | ML home  @ -210,WIN,0.5,0.24
+SOCCER,2026-10-06,Vancouver Whitecaps @ Chicago Fire FC | TOTAL Under 3.5 @ -114.0,LOSS,1.0,-1.0
+UFC,2026-10-06,Roque Conceição vs Alexander Chavez | ML Roque Conceição  @ -108.0,WIN,1.0,0.93
+WNBA,2026-10-07,New York Liberty @ Atlanta Dream | TOTAL Over 170.5 @ -110.0,WIN,1.0,0.91
+WNBA,2026-10-07,Las Vegas Aces @ Golden State Valkyries | ML Golden State Valkyries  @ -130.0,WIN,1.0,0.77
+WNBA,2026-10-07,Las Vegas Aces @ Golden State Valkyries | SPREAD Golden State Valkyries -1.5 @ -112.0,WIN,1.0,0.89
+SOCCER,2026-10-07,Corinthians @ Internacional | TOTAL Over 2.0 @ -119.0,WIN,1.0,0.84
+SOCCER,2026-10-07,Mirassol @ Red Bull Bragantino | TOTAL Under 2.5 @ 104.0,WIN,1.0,1.04
+SOCCER,2026-10-07,Mirassol @ Red Bull Bragantino | AH Mirassol 1.0 @ -169.0,WIN,1.0,0.59
+SOCCER,2026-10-07,Vasco da Gama @ Botafogo | AH Botafogo 0.0 @ 117.0,LOSS,1.0,-1.0
+NFL,2026-10-08,TB @ DAL | TOTAL Under 48.0 @ -102.0,WIN,1.0,0.98
+CFB,2026-10-08,Jacksonville State @ Kennesaw State | ML away  @ -146,WIN,0.75,0.51
+CFB,2026-10-08,Jacksonville State @ Kennesaw State | SPREAD away -2.5 @ -122,LOSS,0.75,-0.75
+CFB,2026-10-08,Jacksonville State @ Kennesaw State | TOTAL over 48.5 @ -115,WIN,0.75,0.65
+CFB,2026-10-08,New Mexico State @ Florida International | ML home  @ -225,WIN,0.75,0.33
+CFB,2026-10-08,New Mexico State @ Florida International | SPREAD home -6.5 @ -105,WIN,0.75,0.71
+CFB,2026-10-08,New Mexico State @ Florida International | TOTAL over 47.5 @ -106,LOSS,0.5,-0.5
+SOCCER,2026-10-08,Bahia @ Palmeiras | TOTAL Under 3.0 @ -116.0,WIN,1.0,0.86
+CFB,2026-10-09,Missouri State @ Western Kentucky | TOTAL over 56.5 @ -114,LOSS,0.75,-0.75
+CFB,2026-10-09,South Florida @ UTSA | TOTAL over 50.5 @ -110,WIN,0.75,0.68
+CFB,2026-10-09,South Alabama @ Arkansas State | TOTAL over 58.5 @ -104,WIN,0.75,0.72
+CFB,2026-10-09,South Alabama @ Arkansas State | SPREAD home -1.5 @ -108,LOSS,0.75,-0.75
+CFB,2026-10-09,Missouri State @ Western Kentucky | ML home  @ -121,WIN,0.5,0.41
+CFB,2026-10-09,South Alabama @ Arkansas State | ML home  @ -141,LOSS,0.75,-0.75
+WNBA,2026-10-09,Atlanta Dream @ New York Liberty | SPREAD Atlanta Dream 2.5 @ -105.0,WIN,1.0,0.95
+WNBA,2026-10-09,Atlanta Dream @ New York Liberty | TOTAL Over 171.5 @ -110.0,LOSS,1.0,-1.0
+WNBA,2026-10-09,Golden State Valkyries @ Las Vegas Aces | SPREAD Golden State Valkyries 3.5 @ -105.0,WIN,1.0,0.95
+WNBA,2026-10-09,Atlanta Dream @ New York Liberty | SPREAD Atlanta Dream 3.5 @ -115.0,WIN,1.0,0.87
+WNBA,2026-10-09,Atlanta Dream @ New York Liberty | TOTAL Over 170.5 @ -108.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Boca Juniors @ Instituto (Córdoba) | TOTAL Over 2.0 @ 109.0,WIN,1.0,1.09
+SOCCER,2026-10-09,Defensa y Justicia @ Unión (Santa Fe) | TOTAL Over 2.5 @ 112.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Espanyol @ Málaga | TOTAL Over 2.5 @ 106.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Gil Vicente @ Moreirense | TOTAL Over 2.0 @ -137.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Lommel SK @ Waasland-Beveren | TOTAL Under 3.0 @ -112.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Lyon @ Lens | TOTAL Under 3.0 @ 106.0,PUSH,1.0,0.0
+SOCCER,2026-10-09,Queens Park Rangers @ West Ham United | TOTAL Over 3.0 @ -137.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Sarmiento (Junín) @ Aldosivi | TOTAL Over 2.0 @ -114.0,WIN,1.0,0.88
+SOCCER,2026-10-09,Boca Juniors @ Instituto (Córdoba) | AH Boca Juniors -0.0 @ -130.0,PUSH,1.0,0.0
+SOCCER,2026-10-09,Lommel SK @ Waasland-Beveren | AH Lommel SK 0.5 @ -102.0,WIN,1.0,0.98
+SOCCER,2026-10-09,Lyon @ Lens | AH Lens 0.0 @ 100.0,WIN,1.0,1.0
+SOCCER,2026-10-09,Queens Park Rangers @ West Ham United | AH West Ham United -1.5 @ 114.0,LOSS,1.0,-1.0
+SOCCER,2026-10-09,Sporting CP @ Braga | AH Sporting CP -0.0 @ -147.0,WIN,1.0,0.68
+SOCCER,2026-10-09,Toluca @ Tigres UANL | AH Tigres UANL 0.0 @ 110.0,WIN,1.0,1.1
+SOCCER,2026-10-09,Espanyol @ Málaga | AH Espanyol -0.0 @ -120.0,PUSH,1.0,0.0
+CFB,2026-10-10,Washington State @ Utah State | SPREAD away 5.5 @ -110,WIN,0.5,0.45
+CFB,2026-10-10,Washington State @ Utah State | TOTAL over 43.5 @ -115,LOSS,0.75,-0.75
+CFB,2026-10-10,Iowa @ Washington | SPREAD away 2.5 @ 102,WIN,0.75,0.76
+CFB,2026-10-10,Iowa State @ BYU | ML home  @ -425,WIN,0.5,0.12
+CFB,2026-10-10,Iowa State @ BYU | SPREAD home -10.0 @ -110,WIN,0.75,0.68
+CFB,2026-10-10,Iowa State @ BYU | TOTAL over 46.5 @ -106,LOSS,0.75,-0.75
