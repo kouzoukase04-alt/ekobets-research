@@ -1,0 +1,51 @@
+==============================================================================
+  PICK OF THE DAY -- 2026-09-24
+==============================================================================
+Per-sport research doc: each active model's top 3 plays that
+cleared its own real edge bar, full why-detail pulled straight from that
+sport's own FINAL CARD section. Ranked confidence-tier-first within each
+sport (a clean play with no caution flag from its own model always beats a
+flagged one, regardless of edge %), edge % as the tiebreaker. No single
+cross-sport winner -- multiple edges per sport to research, not one crowned
+play. NFL, CFB, and UFC are included; CFB and UFC plays are still tagged
+caution=True with an UNVALIDATED MODEL note (each self-flags no demonstrated
+edge over market yet: CFB has no live grading history yet; UFC loses to
+market at every blend tried). NFL's own digest (NFL.txt) still self-flags
+every play as QUALIFYING/PROVISIONAL (0/150 graded REG-season picks) -- that
+caveat lives there, not re-flagged here. Verify all of these more carefully
+than usual.
+
+
+==============================================================================
+MLB
+==============================================================================
+------------------------------------------------------------------------------
+#1  [CAUTION]
+[MLB] ML -- Los Angeles Angels   edge +25.0%  [gate-flagged, real edge clears floor]
+  Los Angeles Angels @ Seattle Mariners
+    SP Matchup : Reid Detmers [ELITE(>=1560)/1756, ERA 3.47/WHIP 1.05 [L10: 2.29]] vs Bryce Miller [AVG(1480-1519)/1484, ERA 4.01/WHIP 1.16 [L10: 6.20]]  [confirmed via Cell 41/42 live feed -- external sources may lag]
+      Reid Detmers: ERA 3.47 (starts only) | WHIP 1.05 | FIP 3.05 | xFIP 3.36 | SIERA 3.28 | HH% 37.9 | Barrel% 7.6 | IP 179.0
+      Bryce Miller: ERA 4.01 (starts only) | WHIP 1.16 | FIP 4.43 | xFIP 3.95 | SIERA 3.87 | HH% 32.0 | Barrel% 7.8 | IP 107.7
+    Proj Score : Los Angeles Angels 4.0  --  Seattle Mariners 3.6  (O/U 7.7) | 57F wind 7mph precip 7%
+    [SP VS OPPONENT] Reid Detmers: 2.13 ERA vs Seattle Mariners in 2 start(s) this season vs 3.47 season ERA  [DIVERGES >1.0R from season ERA]
+    [CAREER H2H] Reid Detmers: 5.15 ERA vs Seattle Mariners in 14 career appearance(s)
+    !! CAREER H2H RISK: Reid Detmers carries a 5.15 career ERA vs Seattle Mariners (14 appearances), 1.68R worse than his 3.47 season ERA -- verify whether this season's H2H result resolves or repeats the pattern before trusting the SP edge
+    [CAREER H2H] Bryce Miller: 2.58 ERA vs Los Angeles Angels in 8 career appearance(s)
+    !! HR RATE ELEVATED: Bryce Miller allowing 1.93 HR/9 (L3) -- collapse-elevated, edge discounted for this
+    !! [SP WORKLOAD] Reid Detmers (Los Angeles Angels): 179.0 IP this season -- past the 120-IP fatigue-risk threshold. Season-long ELO has no innings-workload decay, so a late-season fade wouldn't show up in the tier above -- informational only, no edge/tier change applied (unvalidated, no backtest)
+    [INJURY] Los Angeles Angels: [LINEUP DOWNGRADE: 3 key players out (Nolan Schanuel (0.736 OPS -0.15R), Yoan Moncada (0.605 OPS -0.08R), Anthony Rendon (AVG-fallback -0.15R)) -- injury stack, -0.38R]
+    [INJURY] Seattle Mariners: [LINEUP DOWNGRADE: 6 key players out (Brock Rodden (0.585 OPS -0.08R), Brendan Donovan (0.780 OPS -0.15R), Brennen Davis (AVG-fallback -0.15R), Colt Emerson (0.581 OPS -0.08R), Luke Raley (0.723 OPS -0.15R), Will Wilson (1.133 OPS -0.35R)) -- injury stack, -0.96R]
+    [MOTIVATION: EQUAL -- both teams ELIMINATED, net effect 0.0R]
+    !! LINEUP NOT CONFIRMED: 25.2h until first pitch, Los Angeles Angels's starting lineup not yet posted -- has a real injury absence (see [INJURY] above) whose replacement isn't reflected in tonight's projection yet, re-check the confirmed lineup before placing
+    !! LINEUP NOT CONFIRMED: 25.2h until first pitch, Seattle Mariners's starting lineup not yet posted -- has a real injury absence (see [INJURY] above) whose replacement isn't reflected in tonight's projection yet, re-check the confirmed lineup before placing
+    [NET INJURY DELTA] -0.58R favor Los Angeles Angels (priced into the win probability/edge above when >=0.20R -- see [NET INJURY DELTA PRICED IN] below if it fired)
+    [NET INJURY DELTA (CONFIRMED ONLY)] -0.58R favor Los Angeles Angels
+    [INJURY TAILWIND] net injury delta favored this pick by 0.58R -- already priced into the win probability/edge shown above
+    [NET INJURY DELTA PRICED IN] win prob 53.8% -> 61.3% (0.58R tailwind), edge +17.4% -> +25.0%
+    [BULLPEN RISK] Los Angeles Angels: risk=1 (weak links: Sammy Peralta 7.85, Luke Murphy 5.79)
+    [BULLPEN RISK] Seattle Mariners: risk=1 (weak links: Josh Simpson 9.82, Michael Rucker 6.02, Carlos Vargas 5.19)
+    [BULLPEN L3 ERA] Los Angeles Angels: 12.09 ERA (9 ER / 6.7 IP) over last 3 days (league avg 3.01) -> +0.35R to the opponent's projection (damped)
+    [BULLPEN STRENGTH] Los Angeles Angels: hot arm(s) over trailing 30d -- Tayler Saucedo 0.00, Mitch Farris 0.84 (avg 0.42 ERA) -- informational; also dampens the bullpen risk penalty above if present
+    [BULLPEN STRENGTH] Seattle Mariners: hot arm(s) over trailing 30d -- Seranthony Domínguez 0.68, Cooper Criswell 2.25 (avg 1.47 ERA) -- informational; also dampens the bullpen risk penalty above if present
+    [BULLPEN B2B USAGE] Seattle Mariners: Carlos Vargas, José A. Ferrer pitched both of the last 2 days -> +0.30R to the opponent's projection
+    [H2H 2026] Seattle Mariners 5-4 vs Los Angeles Angels this season (9 G) | avg run diff +1.3 in Seattle Mariners's favor | H2H blend: -1.1pp to Seattle Mariners win prob (Bayesian-shrunk win rate 0.536, weight 15%)

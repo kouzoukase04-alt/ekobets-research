@@ -1,0 +1,57 @@
+==============================================================================
+  PICK OF THE DAY -- 2026-10-10
+==============================================================================
+Per-sport research doc: each active model's top 3 plays that
+cleared its own real edge bar, full why-detail pulled straight from that
+sport's own FINAL CARD section. Ranked confidence-tier-first within each
+sport (a clean play with no caution flag from its own model always beats a
+flagged one, regardless of edge %), edge % as the tiebreaker. No single
+cross-sport winner -- multiple edges per sport to research, not one crowned
+play. NFL, CFB, and UFC are included as official plays like every other sport
+(caution only from a play's own flags). NFL: 16-25-1 on graded REG-season card picks (54 logged, 2 pending); sized plays 13-20 -- small sample, thresholds still PROVISIONAL.
+Verify all of these more carefully than usual.
+FULL POWER: every model priced MODEL-ONLY (w = 1.0, raw-scale edge bars), live. Every official
+play is sized FLAT 1u ($30) -- no fractional units. Plays are still logged to tracking/shadow_log.csv
+and graded weekly (daily_cards/SHADOW_WEEKLY.txt: model vs market Brier, CLV) as the track record.
+
+
+(Top 3 of the day's CFB plays shown.)
+
+==============================================================================
+CFB
+==============================================================================
+------------------------------------------------------------------------------
+#1  [OFFICIAL]
+[CFB] TOTAL -- under 52.5   edge +19.9%
+  San Diego State @ Oregon State   [OFFICIAL]
+  SIZE: 1.0u ($30) -- flat (FULL POWER)
+    **  model=69.3% (pre-blend 69.3%) mkt=49.4%  |  1.0u ($30)  |  tier C (model gap 8.0 pts (7-10): max C, 1.0u ($30))
+        - SP+ favors Oregon State by 9.0 pts (home_sp=1.2, away_sp=-7.8)
+        - Model total 44.5 vs line 52.5 (sigma=15.9)
+        - Line: card 52.5 (betrivers) | live 52.5 (10-book consensus) | open 57.5 (ESPN/DK)
+        - pace total 44.5 (FBS games only): Oregon State 0.326 pts/play [measured, 4 FBS g; FCS excluded: Montana 52-17] x 69 plays = 22.4; San Diego State 0.339 [measured, 4 FBS g; FCS excluded: Portland State 53-20] x 65 = 22.1 (old SP+ off/def total 45.7)
+        - QB: San Diego State: no QB on the injury report; Denegal starts | Oregon State: no QB on the injury report; Atkinson starts
+        - Skill: San Diego State: Donovan Brown WR QUESTIONABLE, Javion Kinnard RB QUESTIONABLE, Lucky Sutton RB QUESTIONABLE (not priced) | Oregon State: no key RB/WR/TE on the injury report
+
+------------------------------------------------------------------------------
+#2  [OFFICIAL]
+[CFB] SPREAD -- away 2.0   edge +18.6%
+  Georgia @ Alabama   [OFFICIAL]
+  SIZE: 1.0u ($30) -- flat (FULL POWER)
+    **  model=68.9% (pre-blend 68.9%) mkt=50.3%  |  1.0u ($30)  |  tier A
+        - SP+ favors Georgia by 7.2 pts (home_sp=23.0, away_sp=30.2)
+        - Model margin -4.8 vs line +2.0 (sigma=13.7)
+        - Line: card +2 (betrivers) | live +2 (10-book consensus) | open -3 (ESPN/DK)
+        - QB: Georgia: no QB on the injury report; Stockton starts | Alabama: no QB on the injury report; Russell starts
+        - Skill: Georgia: no key RB/WR/TE on the injury report | Alabama: no key RB/WR/TE on the injury report
+
+------------------------------------------------------------------------------
+#3  [OFFICIAL]
+[CFB] ML -- home   edge +17.2%
+  Wake Forest @ NC State   [OFFICIAL]
+  SIZE: 1.0u ($30) -- flat (FULL POWER)
+    **  model=56.2% (pre-blend 56.2%) mkt=39.0%  |  1.0u ($30)  |  tier C
+        - SP+ favors Wake Forest by 0.3 pts (home_sp=3.4, away_sp=3.7)
+        - Line: card +143 (betrivers) | live +140 (10-book consensus) | open +110 (ESPN/DK)
+        - QB: Wake Forest: no QB on the injury report; Lopez starts | NC State: no QB on the injury report; Bailey starts
+        - Skill: Wake Forest: no key RB/WR/TE on the injury report | NC State: no key RB/WR/TE on the injury report

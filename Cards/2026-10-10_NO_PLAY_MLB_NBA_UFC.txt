@@ -1,0 +1,52 @@
+==============================================================================
+  PICK OF THE DAY -- 2026-10-10
+==============================================================================
+Per-sport research doc: each active model's top 3 plays that
+cleared its own real edge bar, full why-detail pulled straight from that
+sport's own FINAL CARD section. Ranked confidence-tier-first within each
+sport (a clean play with no caution flag from its own model always beats a
+flagged one, regardless of edge %), edge % as the tiebreaker. No single
+cross-sport winner -- multiple edges per sport to research, not one crowned
+play. NFL, CFB, and UFC are included as official plays like every other sport
+(caution only from a play's own flags). NFL: 16-25-1 on graded REG-season card picks (54 logged, 2 pending); sized plays 13-20 -- small sample, thresholds still PROVISIONAL.
+Verify all of these more carefully than usual.
+FULL POWER: every model priced MODEL-ONLY (w = 1.0, raw-scale edge bars), live. Every official
+play is sized FLAT 1u ($30) -- no fractional units. Plays are still logged to tracking/shadow_log.csv
+and graded weekly (daily_cards/SHADOW_WEEKLY.txt: model vs market Brier, CLV) as the track record.
+
+
+No-play sports: the model ran, but no play cleared the edge bar, so no bets
+(the card says 'No games scheduled' when there is simply no slate).
+
+==============================================================================
+MLB
+==============================================================================
+No official plays today.
+
+==============================================================================
+NBA
+==============================================================================
+No official plays today.
+
+==============================================================================
+UFC
+==============================================================================
+No official plays today.
+
+==============================================================================
+EDGES THE MODEL SAW AND PASSED ON (each with the rule that blocked it)
+==============================================================================
+-- MLB --
+  +6.9%  ML           Cleveland Guardians    Chicago White Sox @ Cleveland Guardians  @ -142 (ESPN feed)  [pre-blend +6.9%]  [Gate 7d postseason SP role UNRATED -- PIGGYBACK RISK -- Chicago White Sox can piggyback Anthony Kay (31 GS, short rest), Davis Martin (28 GS, short rest), Erick Fedde (15 GS, short rest); Cleveland Guardians can piggyback Tanner Bibee (33 GS, short rest), Parker Messick (32 GS, short rest), Foster Griffin (31 GS, short rest) -- who covers the middle/late innings is unknowable pregame, SP role UNRATED]  [passes_edge_rule failed: logit edge +0.287 < required +0.490 (12.0% floor) -- at mkt 56.1% (vig-incl) needs model >= 67.6%, has 63.0%, missed by 4.6%]  | Driver: SP Gavin Williams vs Sean Burke (+216 ELO for the pick's starter); SP H2H -- pick SP Gavin Williams vs Chicago White Sox: 3.98 ERA in 4 GS this season, 4.72 career (7 app) | opp SP Sean Burke vs Cleveland Guardians: 1.46 ERA in 2 GS this season, 2.56 career (7 app); pre-blend model 63.0% vs mkt 56.1%
+
+-- NBA --
+  (none)
+
+-- UFC --
+  +14.3%  Brendson Ribeiro         model 37.7%  mkt 23.4%  Felipe Franco vs Brendson Ribeiro  @ +310 (fallback feed (BFO/Odds API))  [model prob 37.7% below the 50% floor]
+  +14.1%  Otari Tanzilovi          model 48.7%  mkt 34.6%  Malcolm Wellmaker vs Otari Tanzilovi  @ +173 (fallback feed (BFO/Odds API))  [model prob 48.7% below the 50% floor]
+  +11.4%  Ketlen Souza             model 43.6%  mkt 32.2%  Loopy Godinez vs Ketlen Souza  @ +198 (fallback feed (BFO/Odds API))  [ELO gap 10pt too small (<30) -- model can't differentiate fighters]
+  +10.5%  Gerald Meerschaert       model 38.3%  mkt 27.8%  Julius Walker vs Gerald Meerschaert  @ +245 (fallback feed (BFO/Odds API))  [ELO gap 30pt too small (<30) -- model can't differentiate fighters]
+  +8.3%  Kai Kamaka               model 51.0%  mkt 42.8%  Andre Fili vs Kai Kamaka  @ +123 (fallback feed (BFO/Odds API))  [ELO gap 17pt too small (<30) -- model can't differentiate fighters]
+  +7.5%  Brendan Allen            model 59.3%  mkt 51.7%  Brendan Allen vs Christian Leroy Duncan  @ -118 (fallback feed (BFO/Odds API))  [UFC-MOVE-1: line moved away from the pick (open -142 -> now -122, no-vig 56.3% -> 52.6%; open = ESPN open)]
+  ... +3 more below the cap (capped at 8) -- see UFC.txt for the full list
